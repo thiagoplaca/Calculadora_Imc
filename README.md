@@ -4,6 +4,6 @@ Uma simples calculadora de IMC.
 
 # Tecnologias
 
-HTML5
-CSS3
-JAVASCRIPT
+ - HTML5
+ - CSS3
+-  JAVASCRIPT
