@@ -87,36 +87,3 @@ button {
     user-select: none;
 }
 
-
-@media only screen and (max-width: 360px) {
-
-    body {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .container{
-        width: 90%;
-        height: 70%;
-    }
-
-    .title {
-        font-size: 2rem;
-    }
-
-    .input {
-        font-size: 2rem;
-    }
-
-    button {
-        width: 80%;
-        
-    }
-
-    .result {
-        width: 80%;
-        height: 20%;
-    }
-    
-
-}
